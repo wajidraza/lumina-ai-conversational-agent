@@ -1,0 +1,7 @@
+{
+  "name": "lumina-ai-conversational-agent",
+  "version": "1.0.0",
+  "description": "Next-gen conversational interface with token-by-token streaming, markdown code execution blocks, artifact sidebars, and chat memory persistence.",
+  "author": "Wajid Raza <wajidrazapk@outlook.com>",
+  "license": "MIT"
+}
